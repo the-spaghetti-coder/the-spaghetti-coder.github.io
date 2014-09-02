@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
+I’m an independent mobile developer whom works with both iOS and Android. I managed to publish a fairly silly nap-utility app which you can find [here](https://play.google.com/store/apps/details?id=com.cedideas.catnap) and am currently working on an iOS game. I graduated from U.C. Berkeley with the completely relevant degree of Integrative Biology (aka biology, but more liberal!). I’m on a journey to continually improve my skills/craft and consider myself able to learn anything given that I have enough foolish passion and drive to do so.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This blog was created using [jekyll](http://jekyllrb.com) and hosted for free using [GitHub Pages](https://pages.github.com).
