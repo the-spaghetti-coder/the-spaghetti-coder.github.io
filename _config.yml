@@ -1,7 +1,7 @@
 # Site settings
 title: the-spaghetti-coder
 email: jeffcedilla@gmail.com
-description: > # this means to ignore newlines until "baseurl:"	Description here
+description: description test
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  the-spaghetti-coder
